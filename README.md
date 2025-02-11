@@ -5,11 +5,16 @@
 ## 1. Python Programming Language -1 Month
 #### Python:
 
-1. Python basic- scikit, panda, Jupyter
+## Installation:
+Python setup: https://www.python.org/downloads/
+Jupyter setup: first to get hand dirty on python. or you can install pycharm or any IDE for coding purpose.
+Jupyter installer: https://jupyter.org/
+
+1. Python basic- scikit, panda, tensorflow, etc.
 2. Flask Playlist
 3. Fast API
 
-## 2. Basic Machine Learning Natural Language Processing (
+## 2. Basic Machine Learning Natural Language Processing
 1. Why NLP?
 2. One hot Encoding, Bag Of Words, word2vec, sent2vec, AvgWord2vec
 3. TFIDF
@@ -33,7 +38,6 @@ https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 ## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
 
 1. OpenAI
-![image](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/986bc005-e6c3-4f41-b678-82e0c0c2aa4a)
 2. Langchain
 3. Chainlit
 4. Google Gemini 
