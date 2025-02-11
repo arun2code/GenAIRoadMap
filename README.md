@@ -1,4 +1,4 @@
-# Roadmap To Learn Generative AI In 2024
+# Roadmap To Learn Generative AI In 2025
 
 ## Prerequisites
 
@@ -61,6 +61,14 @@
 3. LangSmith
 4. LangServe
 5. HuggingFace Spaces
+
+
+## 7. Other references
+Agnetic AI, RAG model
+
+Regression model- https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+https://www.analyticsvidhya.com/blog/2021/01/a-quick-overview-of-regression-algorithms-in-machine-learning/
+
 
 
 
