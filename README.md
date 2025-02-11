@@ -26,21 +26,26 @@ Jupyter installer: https://jupyter.org/
 4. Optimizers
 
 ## 4. Advanced NLP Concepts 
-1. RNN, LSTM RNN
+1. RNN, LSTM, RNN, CNN
 2. GRU RNN
-3. Bidirection LSTM RNN
-4. Encoder Decoder, Attention is all you need ,Seq to Seq 
+3. Random forest
+4. Encoder Decoder
 5. Transformers
 
 Refer: https://www.analyticsvidhya.com/blog/2021/01/a-quick-overview-of-regression-algorithms-in-machine-learning/
 https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 
-## 5. Starting the Journey Towards Generative AI (GPT4,Mistral 7B, LLAMA, Hugging Face Open Source LLM Models,Google Palm Model)
+## 5. Starting the Journey Towards Generative AI
 
-1. OpenAI
-2. Langchain
-3. Chainlit
-4. Google Gemini 
+1.GPT4
+2. Mistral 78
+2. OpenAI
+3. Langchain
+4. Chainlit
+5. Google Gemini
+6. LLAM
+7. Hugging Face
+8. Google Palm
 
 ## 5. Vector Databases And Vector Stores
 
@@ -48,6 +53,9 @@ https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 2. FAISS vector database, which makes use of the Facebook AI Similarity Search (FAISS) library
 3. LanceDB vector database based on the Lance data format
 4. Cassandra DB For storing Vectors
+5. Amazon Fast vector DB
+6. Pinecone
+7. Embedding model
 
 ## 6. Deployment Of LLM Projects
 
